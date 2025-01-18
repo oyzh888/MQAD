@@ -15,6 +15,13 @@ Download samples from here:
 [gen_qa.py](./code/gen_qa.py)
 
 # Dataset
+## Full dataset
+Download the full dataset from here:
+[gpt4_caption_4_3.tar.gz](./data/gpt4_caption_4_3.tar.gz).
+
+This dataset contains approximately 3 million QA pairs and captions across 270,000 tracks. You can see more details at this paper: [MQAD: A LARGE-SCALE QUESTION ANSWERING DATASET FOR TRAINING MUSIC LARGE LANGUAGE MODELS](./data/MQAD_ICASSP_2025_Final.pdf)
+ 
+
 ## Examples
 Final result
 ```json
