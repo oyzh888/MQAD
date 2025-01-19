@@ -6,10 +6,10 @@ Download samples from here:
 # Open source plan
 - [√] Release the data generation code (only show the logic)
 - [√] Release example data and document to show the data format
-- [] Add example raw json files to generate the dataset
-- [] Add readme and script to start the code
-- [] release the full datasets
-- [] Release the example model training code
+- [√] Add example raw json files to generate the dataset
+- [√] Release the full datasets
+- [] Add readme and script to start the dataset gen code
+- [] Open source the training code (not decided yet, possible)
 
 # Code
 [gen_qa.py](./code/gen_qa.py)
